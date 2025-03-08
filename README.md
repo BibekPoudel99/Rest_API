@@ -1,14 +1,14 @@
-# 📌 Express.js REST API with MongoDB & Authentication
+#  Express.js REST API with MongoDB & Authentication
 
-## 🚀 Overview
+##  Overview
 This project is a **REST API** built with **Express.js** and **MongoDB**, featuring **user authentication** using **JWT (JSON Web Tokens)**. It allows users to register, log in, and perform CRUD operations securely.
 
-## ✨ Features
-- 📌 **User Authentication** (Register/Login with JWT)
-- 🔐 **Secure Routes** (JWT-based access control)
-- 📄 **MongoDB Database** (CRUD operations)
-- ⚡ **RESTful Endpoints** (GET, POST, PUT, DELETE)
-- 📂 **MVC Structure** for better scalability
+##  Features
+-  **User Authentication** (Register/Login with JWT)
+-  **Secure Routes** (JWT-based access control)
+-  **MongoDB Database** (CRUD operations)
+-  **RESTful Endpoints** (GET, POST, PUT, DELETE)
+-  **MVC Structure** for better scalability
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js
